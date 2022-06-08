@@ -1,0 +1,34 @@
+body {
+    background-color: darkblue;
+    background-image: url("/images/vintage-grunge-paper-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#para_1 {
+    color: chartreuse;
+}
+
+#para_2 {
+    color: cornflowerblue;
+}
+
+.text-center {
+    color:blue;
+}
+
+.head_1 {
+    color:aliceblue;
+}
+
+#img_1 {
+    padding: 20px;
+    border: 300px;
+    object-fit: auto;
+}
+
+#img_2 {
+    padding: 20px;
+    border: 300px;
+    object-fit: auto;
+}
