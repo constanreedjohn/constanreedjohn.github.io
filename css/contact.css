@@ -40,6 +40,7 @@
 }
 .effect .buttons {
   margin-top: 0px;
+  margin-left: 48%;
   display: flex;
   justify-content: center;
 }
@@ -49,6 +50,8 @@
   display: flex;
 }
 .effect a {
+  margin-left: 10px;
+  margin-right: 10px;
   text-decoration: none !important;
   width: 40px;
   height: 40px;
@@ -56,11 +59,9 @@
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  margin-right: 30px;
   font-size: 25px;
   overflow: hidden;
   position: relative;
-  left: 650%;
   color: #212121;
   border: 2px solid #212121;
 }
